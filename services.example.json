@@ -1,0 +1,12 @@
+{
+  "working_hours": "Mon-Sun 9:00-21:00",
+  "unsupported_vehicles": ["truck", "bus", "gazelle", "land cruiser", "грузовик", "газель", "крузак"],
+  "services": [
+    {"code": "oil", "name": "Engine oil and filter change", "price_from": 1500, "duration_min": 40},
+    {"code": "diag", "name": "Computer diagnostics", "price_from": 1200, "duration_min": 30},
+    {"code": "tyres", "name": "Tyre fitting (4 wheels)", "price_from": 2400, "duration_min": 60},
+    {"code": "brakes", "name": "Brake pads replacement", "price_from": 1800, "duration_min": 60},
+    {"code": "ac", "name": "Air conditioning refill", "price_from": 2500, "duration_min": 45},
+    {"code": "wash", "name": "Car wash", "price_from": 700, "duration_min": 30}
+  ]
+}
